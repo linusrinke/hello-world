@@ -1,2 +1,2 @@
 # hello-world
-First test repo
+var hello = prompt('hello world);
